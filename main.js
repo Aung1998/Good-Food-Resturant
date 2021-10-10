@@ -1,1 +1,1 @@
-console.log("Resturant page created!");
+(()=>{"use strict";function e(e,t){let n=document.createElement("a"),c=document.createElement("li");return c.textContent=e,n.appendChild(c),n.href=t,n}!function(){const t=function(){const t=document.createElement("nav");return t.appendChild(e("Home","./index.html")),t.appendChild(e("Menu","./menu.html")),t.appendChild(e("Contact","./contact.html")),t}(),n=document.querySelector(".content");document.body.insertBefore(t,n)}()})();
