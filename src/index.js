@@ -1,1 +1,9 @@
-console.log("Resturant page created!")
+import addNav from "./nav";
+
+
+function createPage(){
+    addNav();
+    
+}
+
+createPage()
