@@ -1,0 +1,30 @@
+.li{
+    font-family:Arial, Helvetica, sans-serif;
+    list-style: none;;
+    font-size: 25px;
+}
+
+.nav{
+    display: flex;
+    height: auto;
+    justify-content: space-around;
+    background-color:black;
+    margin: 8px;
+}
+
+.link{
+    text-decoration:none;
+}
+
+.content{
+    display: flex;
+    flex-direction:column;
+}
+
+.link, .link:visited, .link:active {
+    color: white;
+}
+
+.link:hover{
+    color: yellow;
+}
