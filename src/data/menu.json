@@ -1,0 +1,34 @@
+{
+    "menu":[
+        {
+            "title":"Sweet and Sour, Chicken & Pork",
+            "price": 25,
+            "img": "./img/sweet.jpeg"
+        },
+        {
+            "title":"Chicken Biryani",
+            "price": 35,
+            "img": "./img/chicken-biryani.jpg"
+        },
+        {
+            "title":"Oyakondon",
+            "price": 30,
+            "img": "./img/oyakondon.jpg"
+        },
+        {
+            "title":"Char Siew Meats on Rice",
+            "price": 20,
+            "img": "./img/charsew.jpg"
+        },
+        {
+            "title":"Sushi",
+            "price": 15,
+            "img": "./img/sushi.jpg"
+        },
+        {
+            "title":"Dumplings",
+            "price": 30,
+            "img": "./img/dumpling.jpg"
+        }
+    ]
+}

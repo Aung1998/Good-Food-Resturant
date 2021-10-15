@@ -9,7 +9,7 @@ function createHome(){
     h3.classList.add('subtitle');
 
     h1.textContent = "Good Food Restaurant";
-    h3.textContent = "Eastern Food";
+    h3.textContent = "Asian Food";
 
     element.appendChild(h1);
     element.appendChild(h3);
